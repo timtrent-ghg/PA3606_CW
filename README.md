@@ -1,2 +1,2 @@
-# PA3606_CW
-Material for PA3606 computer workshops
+# PA3606_CW1
+Material for the first PA3606 computer workshop.
